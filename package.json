@@ -1,5 +1,5 @@
 {
-  "name": "webtracker",
+  "name": "WebTracker",
   "dependencies": {},
   "devDependencies": {
     "vite": "latest"
