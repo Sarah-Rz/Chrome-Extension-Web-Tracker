@@ -1,0 +1,10 @@
+body {
+    min-width: 400px;
+}
+a {
+    color: rgb(34, 34, 32);
+}
+
+ul {
+    list-style: none;
+}
